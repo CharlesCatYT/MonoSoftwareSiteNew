@@ -1,0 +1,46 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_57871be9 a { text-decoration: none; }
+#menu_57871be9_pane { background-color: #E6E6E6; border: 1px solid #646464; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_57871be9_hr { background-color: #646464; height: 1px; border: none; }
+#menu_57871be9_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_57871be9_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_57871be9_entry:hover span { color:#FFFFFF !important; }
+		.menu_57871be9_mainMenuEntry { text-align: center; }
+		.menu_57871be9_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_57871be9_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_57871be9 .mobileEntry { display: none; } 
+		#menu_57871be9 .normalEntry { display: block; } 
+		@media only screen and (max-width:550px) { 
+			#menu_57871be9 .mobileEntry { display: block; } 
+			#menu_57871be9 .normalEntry { display: none; } 
+		}
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#img_6d93c4bf { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; height:auto;  }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#menu_57871be9 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#FF8040; background: linear-gradient(to bottom, #F5CDA4, #FF8040); border: 2px dashed #8F5419;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.style1 { position:absolute; width:37px; height:38px; left:10px;  }
+.style2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
+.textstyle3 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.style3 { position:absolute; width:66px; height:38px; left:10px;  }
+.style4 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
+.textstyle4 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000;  white-space: nowrap; }
+.style5 { position:absolute; width:55px; height:38px; left:76px;  }
+.style6 { position:absolute; width:71px; height:38px; left:131px;  }
+.style7 { position:absolute; width:69px; height:38px; left:202px;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.textstyle6 { text-align:center; }
+#heading_64d1fad2 { vertical-align: bottom; position:relative; display: inline-block; width:428px; height:38px; background:none; font-size:24pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000; text-align:center; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.019608);  }
+.textstyle7 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+.textstyle8 { font-size:18pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+.textstyle9 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#FF0000; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+.textstyle10 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#008000; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+.textstyle11 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#008000; font-weight:bold;  }
+.textstyle12 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle13 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000;  }
+#text_1e7ea875 { position:absolute; left:7%; top:64%; width:372px; height:55px; background:none;  }
